@@ -198,7 +198,7 @@ print_section(position_data, 'data_com')
 ```
 
 
-Teaching Experience {data-icon=chalkboard-teacher}
+Teaching Experience {data-icon=institution}
 --------------------------------------------------------------------------------
 
 
@@ -209,7 +209,7 @@ print_section(position_data, 'teaching_positions')
 
 ```
 
-TALKS, INVITED TALKS, AND WORKSHOPS ATTENDED {data-icon=users}
+TALKS, INVITED TALKS, WORKSHOPS ATTENDED {data-icon=users}
 --------------------------------------------------------------------------------
 
 
