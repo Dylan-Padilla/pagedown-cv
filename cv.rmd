@@ -237,6 +237,39 @@ print_section(position_data, 'data_mem')
 ```
 
 
+Reviewer {data-icon=pencil}
+--------------------------------------------------------------------------------
+
+
+```{r}
+#CV %<>% print_text_block('teaching_experience_aside')
+
+#print_section(position_data, 'teaching_positions')
+
+print_section(position_data, 'data_rev')
+
+```
+
+
+
+Languages {data-icon=commenting}
+--------------------------------------------------------------------------------
+
+
+- English: B2-TOEFL
+- Portuguese: Intermediate-advance (CELPE-BRAS)
+- Spanish: Good
+
+
+
+```{r}
+#CV %<>% print_text_block('teaching_experience_aside')
+
+
+```
+
+
+
 ```{r}
 #CV %<>% print_links()
 ```
