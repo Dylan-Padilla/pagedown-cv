@@ -99,7 +99,7 @@ Contact {#contact}
 - <i class="fa fa-link"></i> [dylanpadilla.netlify.app](http://dylanpadilla.netlify.app/)
 - <i class="fa fa-github"></i> [github.com/Dylan-Padilla](https://github.com/Dylan-Padilla)
 - <i class="fa fa-twitter"></i> [Dylan\_Padilla94](https://twitter.com/Dylan_Padilla94?ref_src=twsrc%5Etfw)
-- <i class="fa fa-phone"></i> (480) 646-7769
+- <i class="fa fa-phone"></i> +1 (480) 646-7769
 
 
 ```{r}
