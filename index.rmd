@@ -137,7 +137,7 @@ Dylan Padilla {#title}
 --------------------------------------------------------------------------------
 
 <p align="justify">
-I am an Evolutionary Biology PhD student at the School of Life Sciences, Arizona State University. My research examines the evolution of the life history among vertebrates and invertebrates. In doing so, I use phylogenetic comparative methods to generate hypotheses and draw broad conclusions that can be applied to wide ranges of taxa. In addition, I conduct experimental evolution studies to examine the frequency of alleles with underlying effects on the foraging behavior of individuals evolving under different selective pressures, which enables me to make strong inferences concerning phenotypic and genetic responses to selection.
+I am an Evolutionary Biology PhD candidate at the School of Life Sciences, Arizona State University. My research examines the evolution of the life history among vertebrates and invertebrates. In doing so, I use phylogenetic comparative methods to generate hypotheses and draw broad conclusions that can be applied to wide ranges of taxa. In addition, I conduct experimental evolution studies to examine the frequency of alleles with underlying effects on the foraging behavior of individuals evolving under different selective pressures, which enables me to make strong inferences concerning phenotypic and genetic responses to selection.
 </p>
 
 ```{r}
