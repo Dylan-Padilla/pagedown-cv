@@ -68,6 +68,16 @@ if(PDF_EXPORT){
 
 ```
 
+```{css, echo=FALSE}
+.pagedjs_page:not(:first-of-type) {
+  --sidebar-width: 0rem;
+  --sidebar-background-color: #ffffff;
+  --main-width: calc(var(--content-width) - var(--sidebar-width));
+  --decorator-horizontal-margin: 0.2in;
+}
+```
+
+
 
 Aside
 ================================================================================
@@ -255,10 +265,12 @@ print_section(position_data, 'data_rev')
 Languages {data-icon=commenting}
 --------------------------------------------------------------------------------
 
+```{r}
 
-- English: B2-TOEFL
-- Portuguese: Intermediate-advance (CELPE-BRAS)
-- Spanish: Good
+print_section(position_data, 'data_lang')
+
+```
+
 
 
 
@@ -273,4 +285,3 @@ Languages {data-icon=commenting}
 ```{r}
 #CV %<>% print_links()
 ```
-
