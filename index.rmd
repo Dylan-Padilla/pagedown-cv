@@ -88,6 +88,7 @@ Aside
 
 
 ```{r}
+
 # Build interactive network of positions colored by section
 # and connected if they occurred in the same year
 #datadrivencv::build_network_logo(CV$entries_data)
@@ -215,7 +216,7 @@ Teaching Assistant Experience {data-icon=institution}
 ```{r}
 #CV %<>% print_text_block('teaching_experience_aside')
 
-print_section(position_data, 'teaching_positions')
+#print_section(position_data, 'teaching_positions')
 
 ```
 
@@ -275,6 +276,7 @@ print_section(position_data, 'data_lang')
 
 
 ```{r}
+
 #CV %<>% print_text_block('teaching_experience_aside')
 
 
