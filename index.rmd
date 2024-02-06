@@ -169,7 +169,7 @@ print_section(position_data, 'education')
 
 
 
-Research Experience {data-icon=laptop}
+Jobs and Research Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
 
 ```{r}
@@ -208,17 +208,6 @@ print_section(position_data, 'data_com')
 
 ```
 
-
-Teaching Assistant Experience {data-icon=institution}
---------------------------------------------------------------------------------
-
-
-```{r}
-#CV %<>% print_text_block('teaching_experience_aside')
-
-#print_section(position_data, 'teaching_positions')
-
-```
 
 TALKS, INVITED TALKS, WORKSHOPS ATTENDED {data-icon=users}
 --------------------------------------------------------------------------------
