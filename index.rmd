@@ -19,6 +19,8 @@ knitr::opts_chunk$set(
 
 
 library(glue)
+library(pagedown)
+library(readr)
 library(tidyverse)
 library(magrittr) # For the pipe
 #source("cv_printing_functions.r")
@@ -39,7 +41,7 @@ source('parsing_functions.R')
 
 
 # Load csv with position info
-position_data <- read_csv('positions.csv')
+position_data <- read_csv("positions.csv", show_col_types = FALSE)
 
 
 ```
@@ -69,12 +71,14 @@ if(PDF_EXPORT){
 ```
 
 ```{css, echo=FALSE}
+
 .pagedjs_page:not(:first-of-type) {
   --sidebar-width: 0rem;
   --sidebar-background-color: #ffffff;
   --main-width: calc(var(--content-width) - var(--sidebar-width));
   --decorator-horizontal-margin: 0.2in;
 }
+
 ```
 
 
@@ -122,7 +126,7 @@ Contact {#contact}
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-laptop"></i> **Programming**: R, rmarkdown, GitHub, HTML
+- <i class="fa fa-laptop"></i> **Programming**: R, CSS, HTML, GitHub
 - <i class="fa fa-flask"></i> **Laboratory**: Experimental evolution
 - <i class="fa fa-lightbulb-o"></i> **Other**: Science teaching, science writing, data analysis, data visualization, statistics, experimental design
 
@@ -163,8 +167,10 @@ Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
 ```{r}
+
 #CV %<>% print_section('education')
-print_section(position_data, 'education')
+print_section(position_data, "education")
+
 ```
 
 
@@ -188,7 +194,6 @@ Peer-reviewed Publications {data-icon=book}
 print_section(position_data, 'academic_articles')
 
 ```
-<br>
 
 GRANTS AND AWARDS {data-icon=award}
 --------------------------------------------------------------------------------
@@ -209,7 +214,7 @@ print_section(position_data, 'data_com')
 ```
 
 
-TALKS, INVITED TALKS, WORKSHOPS ATTENDED {data-icon=users}
+RECENT TALKS, INVITED TALKS, WORKSHOPS ATTENDED {data-icon=users}
 --------------------------------------------------------------------------------
 
 
