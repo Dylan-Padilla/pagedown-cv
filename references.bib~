@@ -1,0 +1,928 @@
+@article{anreiter2017epigenetic,
+  title={Epigenetic mechanisms modulate differences in Drosophila foraging behavior},
+  author={Anreiter, Ina and Kramer, Jamie M and Sokolowski, Marla B},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={114},
+  number={47},
+  pages={12518--12523},
+  year={2017},
+  publisher={National Acad Sciences}
+}
+
+@article{anreiter2019foraging,
+  title={The foraging gene and its behavioral effects: Pleiotropy and plasticity},
+  author={Anreiter, Ina and Sokolowski, Marla B},
+  journal={Annual review of genetics},
+  volume={53},
+  pages={373--392},
+  year={2019},
+  publisher={Annual Reviews}
+}
+
+@article{antonovics1968evolution,
+  title={Evolution in closely adjacent plant populations VI. Manifold effects of gene flow},
+  author={Antonovics, Janis},
+  journal={Heredity},
+  volume={23},
+  number={4},
+  pages={508--524},
+  year={1968},
+  publisher={Nature Publishing Group}
+}
+
+@article{balding2006tutorial,
+  title={A tutorial on statistical methods for population association studies},
+  author={Balding, David J},
+  journal={Nature reviews genetics},
+  volume={7},
+  number={10},
+  pages={781--791},
+  year={2006},
+  publisher={Nature Publishing Group UK London}
+}
+
+@article{benjamini1995controlling,
+  title={Controlling the false discovery rate: a practical and powerful approach to multiple testing},
+  author={Benjamini, Yoav and Hochberg, Yosef},
+  journal={Journal of the Royal statistical society: series B (Methodological)},
+  volume={57},
+  number={1},
+  pages={289--300},
+  year={1995},
+  publisher={Wiley Online Library}
+}
+
+@article{bergland2016secondary,
+  title={Secondary contact and local adaptation contribute to genome-wide patterns of clinal variation in Drosophila melanogaster},
+  author={Bergland, Alan O and Tobler, Ray and Gonz{\'a}lez, Josefa and Schmidt, Paul and Petrov, Dmitri},
+  journal={Molecular ecology},
+  volume={25},
+  number={5},
+  pages={1157--1174},
+  year={2016},
+  publisher={Wiley Online Library}
+}
+
+@article{burns2012gene,
+  title={Gene--environment interplay in \textit{Drosophila melanogaster}: Chronic food deprivation in early life affects adult exploratory and fitness traits},
+  author={Burns, James Geoffrey and Svetec, Nicolas and Rowe, Locke and Mery, Frederic and Dolan, Michael J and Boyce, W Thomas and Sokolowski, Marla B},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={109},
+  number={supplement\_2},
+  pages={17239--17244},
+  year={2012},
+  publisher={National Acad Sciences}
+}
+
+@article{charnov1976optimal,
+  title={Optimal foraging, the marginal value theorem},
+  author={Charnov, Eric L},
+  journal={Theoretical population biology},
+  volume={9},
+  number={2},
+  pages={129--136},
+  year={1976},
+  publisher={Elsevier}
+}
+
+@article{cramer1999comparing,
+  title={Comparing global models of terrestrial net primary productivity (NPP): overview and key results},
+  author={Cramer, Wolfgang and Kicklighter, David W and Bondeau, Alberte and Iii, B Moore and Churkina, G and Nemry, B and Ruimy, A and Schloss, Annette L and Intercomparison, ThE Participants OF ThE Potsdam NpP Model},
+  journal={Global change biology},
+  volume={5},
+  number={S1},
+  pages={1--15},
+  year={1999},
+  publisher={Wiley Online Library}
+}
+
+@article{david1988genetic,
+  title={Genetic variation of Drosophila melanogaster natural populations},
+  author={David, Jean R and Capy, Pierre},
+  journal={Trends in Genetics},
+  volume={4},
+  number={4},
+  pages={106--111},
+  year={1988},
+  publisher={Elsevier}
+}
+
+@article{de1989genetic,
+  title={Genetic localization of foraging (for): a major gene for larval behavior in Drosophila melanogaster.},
+  author={de Belle, J Steven and Hilliker, AJ and Sokolowski, Marla B},
+  journal={Genetics},
+  volume={123},
+  number={1},
+  pages={157--163},
+  year={1989},
+  publisher={Oxford University Press}
+}
+
+@article{de1987heredity,
+  title={Heredity of rover/sitter: alternative foraging strategies of Drosophila melanogaster larvae},
+  author={de Belle, J Steven and Sokolowski, Marla B},
+  journal={Heredity},
+  volume={59},
+  number={1},
+  pages={73--83},
+  year={1987},
+  publisher={Nature Publishing Group}
+}
+
+@article{felsenstein1985phylogenies,
+  title={Phylogenies and the comparative method},
+  author={Felsenstein, Joseph},
+  journal={The American Naturalist},
+  volume={125},
+  number={1},
+  pages={1--15},
+  year={1985},
+  publisher={University of Chicago Press}
+}
+
+@article{fick2017worldclim,
+  title={WorldClim 2: new 1-km spatial resolution climate surfaces for global land areas},
+  author={Fick, Stephen E and Hijmans, Robert J},
+  journal={International journal of climatology},
+  volume={37},
+  number={12},
+  pages={4302--4315},
+  year={2017},
+  publisher={Wiley Online Library}
+}
+
+@article{fischer2013population,
+  title={Population genomic footprints of selection and associations with climate in natural populations of \textit{Arabidopsis halleri} from the Alps},
+  author={Fischer, Martin C and Rellstab, Christian and Tedder, Andrew and Zoller, Stefan and Gugerli, Felix and Shimizu, Kentaro K and Holderegger, Rolf and Widmer, Alex},
+  journal={Molecular ecology},
+  volume={22},
+  number={22},
+  pages={5594--5607},
+  year={2013},
+  publisher={Wiley Online Library}
+}
+
+@article{fitzpatrick2007maintaining,
+  title={Maintaining a behaviour polymorphism by frequency-dependent selection on a single gene},
+  author={Fitzpatrick, Mark J and Feder, Elah and Rowe, Locke and Sokolowski, Marla B},
+  journal={Nature},
+  volume={447},
+  number={7141},
+  pages={210--212},
+  year={2007},
+  publisher={Nature Publishing Group UK London}
+}
+
+@article{flatt2016genomics,
+  title={Genomics of clinal variation in Drosophila: disentangling the interactions of selection and demography},
+  author={Flatt, Thomas},
+  year={2016},
+  journal={Wiley Online Library},
+  pages={1023--1026}
+}
+
+@article{flatt2020life,
+  title={Life-history evolution and the genetics of fitness components in \textit{Drosophila melanogaster}},
+  author={Flatt, Thomas},
+  journal={Genetics},
+  volume={214},
+  number={1},
+  pages={3--48},
+  year={2020},
+  publisher={Oxford University Press}
+}
+
+@article{franccois2016controlling,
+  title={Controlling false discoveries in genome scans for selection},
+  author={Fran{\c{c}}ois, Olivier and Martins, Helena and Caye, Kevin and Schoville, Sean D},
+  journal={Molecular ecology},
+  volume={25},
+  number={2},
+  pages={454--469},
+  year={2016},
+  publisher={Wiley Online Library}
+}
+
+@article{frachon2018genomic,
+  title={A genomic map of climate adaptation in \textit{Arabidopsis thaliana} at a micro-geographic scale},
+  author={Frachon, L{\'e}a and Bartoli, Claudia and Carr{\`e}re, S{\'e}bastien and Bouchez, Olivier and Chaubet, Adeline and Gautier, Mathieu and Roby, Dominique and Roux, Fabrice},
+  journal={Frontiers in plant science},
+  volume={9},
+  pages={967},
+  year={2018},
+  publisher={Frontiers Media SA}
+}
+
+@article{frichot2015lea,
+  title={LEA: An R package for landscape and ecological association studies},
+  author={Frichot, Eric and Fran{\c{c}}ois, Olivier},
+  journal={Methods in Ecology and Evolution},
+  volume={6},
+  number={8},
+  pages={925--929},
+  year={2015},
+  publisher={Wiley Online Library}
+}
+
+@article{goslee2007ecodist,
+  title={The ecodist package for dissimilarity-based analysis of ecological data},
+  author={Goslee, Sarah C and Urban, Dean L},
+  journal={Journal of Statistical Software},
+  volume={22},
+  pages={1--19},
+  year={2007}
+}
+
+@article{gruber2018dartr,
+  title={dartr: An r package to facilitate analysis of SNP data generated from reduced representation genome sequencing},
+  author={Gruber, Bernd and Unmack, Peter J and Berry, Oliver F and Georges, Arthur},
+  journal={Molecular ecology resources},
+  volume={18},
+  number={3},
+  pages={691--699},
+  year={2018},
+  publisher={Wiley Online Library}
+}
+
+@article{guillot2013dismantling,
+  title={Dismantling the Mantel tests},
+  author={Guillot, Gilles and Rousset, Fran{\c{c}}ois},
+  journal={Methods in Ecology and Evolution},
+  volume={4},
+  number={4},
+  pages={336--344},
+  year={2013},
+  publisher={Wiley Online Library}
+}
+
+@article{guirao2021benchmarking,
+  title={Benchmarking the performance of Pool-seq SNP callers using simulated and real sequencing data},
+  author={Guirao-Rico, Sara and Gonz{\'a}lez, Josefa},
+  journal={Molecular Ecology Resources},
+  volume={21},
+  number={4},
+  pages={1216--1229},
+  year={2021},
+  publisher={Wiley Online Library}
+}
+
+@article{hoffmann2007climatic,
+  title={Climatic selection on genes and traits after a 100 year-old invasion: a critical look at the temperate-tropical clines in \textit{Drosophila melanogaster} from eastern Australia},
+  author={Hoffmann, Ary A and Weeks, Andrew R},
+  journal={Genetica},
+  volume={129},
+  pages={133--147},
+  year={2007},
+  publisher={Springer}
+}
+
+@article{imhoff2006exploring,
+  title={Exploring global patterns of net primary production carbon supply and demand using satellite observations and statistical data},
+  author={Imhoff, Marc L and Bounoua, Lahouari},
+  journal={Journal of Geophysical Research: Atmospheres},
+  volume={111},
+  number={D22},
+  year={2006},
+  publisher={Wiley Online Library}
+}
+
+@article{imhoff2004global,
+  title={Global patterns in human consumption of net primary production},
+  author={Imhoff, Marc L and Bounoua, Lahouari and Ricketts, Taylor and Loucks, Colby and Harriss, Robert and Lawrence, William T},
+  journal={Nature},
+  volume={429},
+  number={6994},
+  pages={870--873},
+  year={2004},
+  publisher={Nature Publishing Group UK London}
+}
+
+@article{jackson1993stopping,
+  title={Stopping rules in principal components analysis: a comparison of heuristical and statistical approaches},
+  author={Jackson, Donald A},
+  journal={Ecology},
+  volume={74},
+  number={8},
+  pages={2204--2214},
+  year={1993},
+  publisher={Wiley Online Library}
+}
+
+@article{james1997genetic,
+  title={Genetic and environmental responses to temperature of \textit{Drosophila melanogaster} from a latitudinal cline},
+  author={James, Avis C and Azevedo, Ricardo BR and Partridge, Linda},
+  journal={Genetics},
+  volume={146},
+  number={3},
+  pages={881--890},
+  year={1997},
+  publisher={Oxford University Press}
+}
+
+@article{janetos1982active,
+  title={Active foragers vs. sit-and-wait predators: a simple model},
+  author={Janetos, Anthony C},
+  journal={Journal of Theoretical Biology},
+  volume={95},
+  number={2},
+  pages={381--385},
+  year={1982},
+  publisher={Elsevier}
+}
+
+@article{janetos1982foraging,
+  title={Foraging tactics of two guilds of web-spinning spiders},
+  author={Janetos, Anthony C},
+  journal={Behavioral Ecology and Sociobiology},
+  volume={10},
+  pages={19--27},
+  year={1982},
+  publisher={Springer}
+}
+
+@article{johnson1966experimental,
+  title={Experimental determination of food consumption of pike, \textit{Esox lucius}, for growth and maintenance},
+  author={Johnson, L},
+  journal={Journal of the Fisheries Board of Canada},
+  volume={23},
+  number={10},
+  pages={1495--1505},
+  year={1966},
+  publisher={NRC Research Press Ottawa, Canada}
+}
+
+@article{joost2007spatial,
+  title={A spatial analysis method (SAM) to detect candidate loci for selection: towards a landscape genomics approach to adaptation},
+  author={Joost, St{\'e}phane and Bonin, Aur{\'e}lie and Bruford, Michael W and Despr{\'e}s, L and Conord, C and Erhardt, G and Taberlet, P},
+  journal={Molecular ecology},
+  volume={16},
+  number={18},
+  pages={3955--3969},
+  year={2007},
+  publisher={Wiley Online Library}
+}
+
+@article{jumentier2022sparse,
+  title={Sparse latent factor regression models for genome-wide and epigenome-wide association studies},
+  author={Jumentier, Basile and Caye, Kevin and Heude, Barbara and Lepeule, Johanna and Fran{\c{c}}ois, Olivier},
+  journal={Statistical Applications in Genetics and Molecular Biology},
+  volume={21},
+  number={1},
+  year={2022},
+  publisher={De Gruyter}
+}
+
+@book{kamil2012foraging,
+  title={Foraging behavior},
+  author={Kamil, Alan C and Krebs, John R and Pulliam, H Ronald},
+  year={2012},
+  publisher={Springer Science \& Business Media}
+}
+
+@article{kamvar2014poppr,
+  title={Poppr: an R package for genetic analysis of populations with clonal, partially clonal, and/or sexual reproduction},
+  author={Kamvar, Zhian N and Tabima, Javier F and Gr{\"u}nwald, Niklaus J},
+  journal={PeerJ},
+  volume={2},
+  pages={e281},
+  year={2014},
+  publisher={PeerJ Inc.}
+}
+
+@article{kao2015population,
+  title={Population genomic analysis uncovers African and European admixture in Drosophila melanogaster populations from the south-eastern United States and Caribbean Islands},
+  author={Kao, Joyce Y and Zubair, Asif and Salomon, Matthew P and Nuzhdin, Sergey V and Campo, Daniel},
+  journal={Molecular ecology},
+  volume={24},
+  number={7},
+  pages={1499--1509},
+  year={2015},
+  publisher={Wiley Online Library}
+}
+
+@article{kapun2020genomic,
+  title={Genomic analysis of European \textit{Drosophila melanogaster} populations reveals longitudinal structure, continent-wide selection, and previously unknown DNA viruses},
+  author={Kapun, Martin and Barr{\'o}n, Maite G and Staubach, Fabian and Obbard, Darren J and Wiberg, R Axel W and Vieira, Jorge and Goubert, Cl{\'e}ment and Rota-Stabelli, Omar and Kankare, Maaria and Bogaerts-M{\'a}rquez, Mar{\'\i}a and others},
+  journal={Molecular Biology and Evolution},
+  volume={37},
+  number={9},
+  pages={2661--2678},
+  year={2020},
+  publisher={Oxford University Press}
+}
+
+@article{kapun2021drosophila,
+  title={Drosophila evolution over space and time (DEST): a new population genomics resource},
+  author={Kapun, Martin and Nunez, Joaquin CB and Bogaerts-M{\'a}rquez, Mar{\'\i}a and Murga-Moreno, Jes{\'u}s and Paris, Margot and Outten, Joseph and Coronado-Zamora, Marta and Tern, Courtney and Rota-Stabelli, Omar and Guerreiro, Maria P Garc{\'\i}a and others},
+  journal={Molecular biology and evolution},
+  volume={38},
+  number={12},
+  pages={5782--5805},
+  year={2021},
+  publisher={Oxford University Press}
+}
+
+@article{kaun2007natural,
+  title={Natural variation in food acquisition mediated via a Drosophila cGMP-dependent protein kinase},
+  author={Kaun, Karla R and Riedl, Craig AL and Chakaborty-Chatterjee, Munmun and Belay, Amsale T and Douglas, Scott J and Gibbs, Allen G and Sokolowski, Marla B},
+  journal={Journal of Experimental Biology},
+  volume={210},
+  number={20},
+  pages={3547--3558},
+  year={2007},
+  publisher={Company of Biologists}
+}
+
+@article{kelley2006genomic,
+  title={Genomic signatures of positive selection in humans and the limits of outlier approaches},
+  author={Kelley, Joanna L and Madeoy, Jennifer and Calhoun, John C and Swanson, Willie and Akey, Joshua M},
+  journal={Genome research},
+  volume={16},
+  number={8},
+  pages={980--989},
+  year={2006},
+  publisher={Cold Spring Harbor Lab}
+}
+
+@article{korte2013advantages,
+  title={The advantages and limitations of trait analysis with GWAS: a review},
+  author={Korte, Arthur and Farlow, Ashley},
+  journal={Plant methods},
+  volume={9},
+  number={1},
+  pages={1--9},
+  year={2013},
+  publisher={BioMed Central}
+}
+
+@article{lachaise1988historical,
+  title={Historical biogeography of the Drosophila melanogaster species subgroup},
+  author={Lachaise, Daniel and Cariou, Marie-Louise and David, Jean R and Lemeunier, Fran{\c{c}}oise and Tsacas, L{\'e}onidas and Ashburner, Michael},
+  journal={Evolutionary biology},
+  pages={159--225},
+  year={1988},
+  publisher={Springer}
+}
+
+@article{lee2013polymorphism,
+  title={Polymorphism in the neurofibromin gene, Nf1, is associated with antagonistic selection on wing size and development time in \textit{Drosophila melanogaster}},
+  author={Lee, Siu F and Eyre-Walker, Ying Chen and Rane, Rahul V and Reuter, Caroline and Vinti, Giovanna and Rako, Lea and Partridge, Linda and Hoffmann, Ary A},
+  journal={Molecular ecology},
+  volume={22},
+  number={10},
+  pages={2716--2725},
+  year={2013},
+  publisher={Wiley Online Library}
+}
+
+@article{lewontin1973distribution,
+  title={Distribution of gene frequency as a test of the theory of the selective neutrality of polymorphisms},
+  author={Lewontin, Richard C and Krakauer, Jesse},
+  journal={Genetics},
+  volume={74},
+  number={1},
+  pages={175--195},
+  year={1973},
+  publisher={Oxford University Press}
+}
+
+@article{mesquita2016life,
+  title={Life-history patterns of lizards of the world},
+  author={Mesquita, Daniel O and Costa, Gabriel C and Colli, Guarino R and Costa, Ta{\'\i}s B and Shepard, Donald B and Vitt, Laurie J and Pianka, Eric R},
+  journal={The American Naturalist},
+  volume={187},
+  number={6},
+  pages={689--705},
+  year={2016},
+  publisher={University of Chicago Press Chicago, IL}
+}
+
+@article{mccarthy2008genome,
+  title={Genome-wide association studies for complex traits: consensus, uncertainty and challenges},
+  author={McCarthy, Mark I and Abecasis, Gon{\c{c}}alo R and Cardon, Lon R and Goldstein, David B and Little, Julian and Ioannidis, John PA and Hirschhorn, Joel N},
+  journal={Nature reviews genetics},
+  volume={9},
+  number={5},
+  pages={356--369},
+  year={2008},
+  publisher={Nature Publishing Group UK London}
+}
+
+@article{macarthur1966optimal,
+  title={On optimal use of a patchy environment},
+  author={MacArthur, Robert H and Pianka, Eric R},
+  journal={The American Naturalist},
+  volume={100},
+  number={916},
+  pages={603--609},
+  year={1966},
+  publisher={Science Press}
+}
+
+@article{mcneilly1968evolution,
+  title={Evolution in closely adjacent plant populations IV. Barriers to gene flow},
+  author={McNeilly, Thomas and Antonovics, Janis},
+  journal={Heredity},
+  volume={23},
+  number={2},
+  pages={205--218},
+  year={1968},
+  publisher={Nature Publishing Group}
+}
+
+@book{markow2005drosophila,
+  title={Drosophila: a guide to species identification and use},
+  author={Markow, Therese A and O'Grady, Patrick},
+  year={2005},
+  publisher={Elsevier}
+}
+
+@article{miller2020local,
+  title={Local thermal adaptation and limited gene flow constrain future climate responses of a marine ecosystem engineer},
+  author={Miller, Adam D and Coleman, Melinda A and Clark, Jennifer and Cook, Rachael and Naga, Zuraya and Doblin, Martina A and Hoffmann, Ary A and Sherman, Craig DH and Bellgrove, Alecia},
+  journal={Evolutionary Applications},
+  volume={13},
+  number={5},
+  pages={918--934},
+  year={2020},
+  publisher={Wiley Online Library}
+}
+
+@book{nei1987molecular,
+  title={Molecular evolutionary genetics},
+  author={Nei, Masatoshi},
+  year={1987},
+  publisher={Columbia university press}
+}
+
+@article{nunez2022cosmopolitan,
+  title={A cosmopolitan inversion drives seasonal adaptation in overwintering Drosophila},
+  author={Nunez, Joaquin CB and Lenhart, Benedict A and Bangerter, Alyssa and Murray, Connor S and Yu, Yang and Nystrom, Taylor L and Tern, Courtney and Erickson, Priscilla A and Bergland, Alan O},
+  journal={bioRxiv},
+  pages={2022--12},
+  year={2022},
+  publisher={Cold Spring Harbor Laboratory}
+}
+
+@article{paaby2014highly,
+  title={A highly pleiotropic amino acid polymorphism in the \textit{Drosophila insulin} receptor contributes to life-history adaptation},
+  author={Paaby, Annalise B and Bergland, Alan O and Behrman, Emily L and Schmidt, Paul S},
+  journal={Evolution},
+  volume={68},
+  number={12},
+  pages={3395--3409},
+  year={2014},
+  publisher={Blackwell Publishing Inc Malden, USA}
+}
+
+@article{paaby2010identification,
+  title={Identification of a candidate adaptive polymorphism for Drosophila life history by parallel independent clines on two continents},
+  author={Paaby, Annalise B and Blacket, Mark J and Hoffmann, Ary A and Schmidt, Paul S},
+  journal={Molecular ecology},
+  volume={19},
+  number={4},
+  pages={760--774},
+  year={2010},
+  publisher={Wiley Online Library}
+}
+
+@article{paaby2009dissecting,
+  title={Dissecting the genetics of longevity in \textit{Drosophila melanogaster}},
+  author={Paaby, Annalise B and Schmidt, Paul S},
+  journal={Fly},
+  volume={3},
+  number={1},
+  pages={29--38},
+  year={2009},
+  publisher={Taylor \& Francis}
+}
+
+@article{padilla2022correlated,
+  title={The correlated evolution of foraging mode and reproductive effort in lizards},
+  author={Padilla Perez, Dylan J and DeNardo, Dale F and Angilletta Jr, Michael J},
+  journal={Proceedings of the Royal Society B},
+  volume={289},
+  number={1976},
+  pages={20220180},
+  year={2022},
+  publisher={The Royal Society}
+}
+
+@article{padilla2024geographic,
+  title={Geographic and seasonal variation of the for gene reveal signatures of local adaptation in Drosophila melanogaster},
+  author={Padilla Perez, Dylan J},
+  journal={Journal of Evolutionary Biology},
+  volume={37},
+  number={2},
+  pages={201--211},
+  year={2024},
+  publisher={Oxford University Press US}
+}
+
+@article{paradis2010pegas,
+  title={pegas: an R package for population genetics with an integrated--modular approach},
+  author={Paradis, Emmanuel},
+  journal={Bioinformatics},
+  volume={26},
+  number={3},
+  pages={419--420},
+  year={2010},
+  publisher={Oxford University Press}
+}
+
+@article{pearson2008interpret,
+  title={How to interpret a genome-wide association study},
+  author={Pearson, Thomas A and Manolio, Teri A},
+  journal={Jama},
+  volume={299},
+  number={11},
+  pages={1335--1344},
+  year={2008},
+  publisher={American Medical Association}
+}
+
+@article{pereira1993mutations,
+  title={Mutations in the larval foraging gene affect adult locomotory behavior after feeding in \textit{Drosophila melanogaster}.},
+  author={Pereira, H Sofia and Sokolowski, Marla B},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={90},
+  number={11},
+  pages={5044--5046},
+  year={1993},
+  publisher={National Acad Sciences}
+}
+
+@article{pianka1966convexity,
+  title={Convexity, desert lizards, and spatial heterogeneity},
+  author={Pianka, Eric R},
+  journal={Ecology},
+  volume={47},
+  number={6},
+  pages={1055--1059},
+  year={1966},
+  publisher={Wiley Online Library}
+}
+
+@article{rellstab2015practical,
+  title={A practical guide to environmental association analysis in landscape genomics},
+  author={Rellstab, Christian and Gugerli, Felix and Eckert, Andrew J and Hancock, Angela M and Holderegger, Rolf},
+  journal={Molecular Ecology},
+  volume={24},
+  number={17},
+  pages={4348--4370},
+  year={2015},
+  publisher={Wiley Online Library}
+}
+
+@book{roff2002life,
+  title={Life History Evolution},
+  author={Roff, D.A.},
+  isbn={9780878937561},
+  lccn={00104953},
+  url={https://books.google.com/books?id=M\_ZzQgAACAAJ},
+  year={2002},
+  publisher={Sinauer}
+}
+
+@article{schmidt2008amino,
+  title={An amino acid polymorphism in the couch potato gene forms the basis for climatic adaptation in \textit{Drosophila melanogaster}},
+  author={Schmidt, Paul S and Zhu, Chen-Tseh and Das, Jayatri and Batavia, Mariska and Yang, Li and Eanes, Walter F},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={105},
+  number={42},
+  pages={16207--16211},
+  year={2008},
+  publisher={National Acad Sciences}
+}
+
+@article{schoener1969models,
+  title={Models of optimal size for solitary predators},
+  author={Schoener, Thomas W},
+  journal={The American Naturalist},
+  volume={103},
+  number={931},
+  pages={277--313},
+  year={1969},
+  publisher={University of Chicago Press}
+}
+
+@article{schoener1971theory,
+  title={Theory of feeding strategies},
+  author={Schoener, Thomas W},
+  journal={Annual review of ecology and systematics},
+  volume={2},
+  number={1},
+  pages={369--404},
+  year={1971},
+  publisher={Annual Reviews 4139 El Camino Way, PO Box 10139, Palo Alto, CA 94303-0139, USA}
+}
+
+@article{sexton2014genetic,
+  title={Genetic isolation by environment or distance: which pattern of gene flow is most common?},
+  author={Sexton, Jason P and Hangartner, Sandra B and Hoffmann, Ary A},
+  journal={Evolution},
+  volume={68},
+  number={1},
+  pages={1--15},
+  year={2014},
+  publisher={Blackwell Publishing Inc Malden, USA}
+}
+
+@article{sezgin2004single,
+  title={Single-locus latitudinal clines and their relationship to temperate adaptation in metabolic genes and derived alleles in \textit{Drosophila melanogaster}},
+  author={Sezgin, Efe and Duvernell, David D and Matzkin, Luciano M and Duan, Yihao and Zhu, Chen-Tseh and Verrelli, Brian C and Eanes, Walter F},
+  journal={Genetics},
+  volume={168},
+  number={2},
+  pages={923--931},
+  year={2004},
+  publisher={Oxford University Press}
+}
+
+@article{silver1969fasting,
+  title={Fasting metabolism of white-tailed deer},
+  author={Silver, Helenette and Colovos, NF and Holter, JB and Hayes, HH},
+  journal={The Journal of Wildlife Management},
+  pages={490--498},
+  year={1969},
+  publisher={JSTOR}
+}
+
+@article{smith2020global,
+  title={Global gene flow releases invasive plants from environmental constraints on genetic diversity},
+  author={Smith, Annabel L and Hodkinson, Trevor R and Villellas, Jesus and Catford, Jane A and Cserg{\H{o}}, Anna M{\'a}ria and Blomberg, Simone P and Crone, Elizabeth E and Ehrl{\'e}n, Johan and Garcia, Maria B and Laine, Anna-Liisa and others},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={117},
+  number={8},
+  pages={4218--4227},
+  year={2020},
+  publisher={National Acad Sciences}
+}
+
+@article{sokolowski1980foraging,
+  title={Foraging strategies of \textit{Drosophila melanogaster}: a chromosomal analysis},
+  author={Sokolowski, Marla B},
+  journal={Behavior genetics},
+  volume={10},
+  pages={291--302},
+  year={1980},
+  publisher={Springer}
+}
+
+@article{sokolowski1997evolution,
+  title={Evolution of foraging behavior in Drosophila by density-dependent selection},
+  author={Sokolowski, Marla B and Pereira, H Sofia and Hughes, Kimberley},
+  journal={Proceedings of the national academy of sciences},
+  volume={94},
+  number={14},
+  pages={7373--7377},
+  year={1997},
+  publisher={National Acad Sciences}
+}
+
+@book{stearns1992evolution,
+  title={The Evolution of Life Histories},
+  author={Stearns, S.C. and Stearns, S.C. and Oxford University Press},
+  isbn={9780198577416},
+  lccn={91034726},
+  url={https://books.google.com/books?id=-NcNAZ06nNoC},
+  year={1992},
+  publisher={OUP Oxford}
+}
+
+@article{storey2003statistical,
+  title={Statistical significance for genomewide studies},
+  author={Storey, John D and Tibshirani, Robert},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={100},
+  number={16},
+  pages={9440--9445},
+  year={2003},
+  publisher={National Acad Sciences}
+}
+
+@article{tenaillon2008quest,
+  title={The quest for adaptive evolution: a theoretical challenge in a maze of data},
+  author={Tenaillon, Maud I and Tiffin, Peter L},
+  journal={Current opinion in plant biology},
+  volume={11},
+  number={2},
+  pages={110--115},
+  year={2008},
+  publisher={Elsevier}
+}
+
+@article{turner2015behavioral,
+  title={Behavioral variation in \textit{Drosophila melanogaster}: no evidence for common alleles of large-effect at the foraging gene in a population from North Carolina, USA},
+  author={Turner, Thomas and Giauque, Christopher C and Schrider, Daniel R and Kern, Andrew D},
+  journal={USA. bioRxiv},
+  volume={4325},
+  year={2015}
+}
+
+@article{vitt1978body,
+  title={Body shape, reproductive effort, and relative clutch mass in lizards: resolution of a paradox},
+  author={Vitt, Laurie J and Congdon, Justin D},
+  journal={The American Naturalist},
+  volume={112},
+  number={985},
+  pages={595--608},
+  year={1978},
+  publisher={University of Chicago Press}
+}
+
+@article{vitt1982ecological,
+  title={Ecological and evolutionary determinants of relative clutch mass in lizards},
+  author={Vitt, Laurie J and Price, Holly J},
+  journal={Herpetologica},
+  pages={237--255},
+  year={1982},
+  publisher={JSTOR}
+}
+
+@article{wang2013examining,
+  title={Examining the full effects of landscape heterogeneity on spatial genetic variation: a multiple matrix regression approach for quantifying geographic and ecological isolation},
+  author={Wang, Ian J},
+  journal={Evolution},
+  volume={67},
+  number={12},
+  pages={3403--3411},
+  year={2013},
+  publisher={Blackwell Publishing Inc Malden, USA}
+}
+
+@article{weir1984estimating,
+  title={Estimating F-statistics for the analysis of population structure},
+  author={Weir, Bruce S and Cockerham, C Clark},
+  journal={evolution},
+  pages={1358--1370},
+  year={1984},
+  publisher={JSTOR}
+}
+
+@article{weeks2002dissecting,
+  title={Dissecting adaptive clinal variation: markers, inversions and size/stress associations in \textit{Drosophila melanogaster} from a central field population},
+  author={Weeks, Andrew R and McKechnie, Stephen W and Hoffmann, Ary A},
+  journal={Ecology Letters},
+  volume={5},
+  number={6},
+  pages={756--763},
+  year={2002},
+  publisher={Wiley Online Library}
+}
+
+@article{whitlock2015reliable,
+  title={Reliable detection of loci responsible for local adaptation: Inference of a null model through trimming the distribution of F ST},
+  author={Whitlock, Michael C and Lotterhos, Katie E},
+  journal={The American Naturalist},
+  volume={186},
+  number={S1},
+  pages={S24--S36},
+  year={2015},
+  publisher={University of Chicago Press Chicago, IL}
+}
+
+@article{williams2004respiratory,
+  title={The respiratory pattern in \textit{Drosophila melanogaster} selected for desiccation resistance is not associated with the observed evolution of decreased locomotory activity},
+  author={Williams, Adrienne E and Rose, Michael R and Bradley, Timothy J},
+  journal={Physiological and Biochemical Zoology},
+  volume={77},
+  number={1},
+  pages={10--17},
+  year={2004},
+  publisher={The University of Chicago Press}
+}
+
+@article{wright1931evolution,
+  title={Evolution in Mendelian populations},
+  author={Wright, Sewall},
+  journal={Genetics},
+  volume={16},
+  number={2},
+  pages={97},
+  year={1931},
+  publisher={Oxford University Press}
+}
+
+@article{wright1943isolation,
+  title={Isolation by distance},
+  author={Wright, Sewall},
+  journal={Genetics},
+  volume={28},
+  number={2},
+  pages={114},
+  year={1943},
+  publisher={Oxford University Press}
+}
+
+@article{yue2021low,
+  title={Low levels of genetic differentiation with isolation by geography and environment in populations of \textit{Drosophila melanogaster} from across China},
+  author={Yue, Lei and Cao, Li-Jun and Chen, Jin-Cui and Gong, Ya-Jun and Lin, Yan-Hao and Hoffmann, Ary Anthony and Wei, Shu-Jun},
+  journal={Heredity},
+  volume={126},
+  number={6},
+  pages={942--954},
+  year={2021},
+  publisher={Springer International Publishing Cham}
+}
+

@@ -1,0 +1,125 @@
+\begin{thebibliography}{}
+
+\bibitem[Anreiter et~al., 2017]{anreiter2017epigenetic}
+Anreiter, I., Kramer, J.~M., and Sokolowski, M.~B. (2017).
+\newblock Epigenetic mechanisms modulate differences in drosophila foraging
+  behavior.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  114(47):12518--12523.
+
+\bibitem[Anreiter et~al., 2016]{anreiter2016foraging}
+Anreiter, I., Vasquez, O.~E., Allen, A.~M., and Sokolowski, M.~B. (2016).
+\newblock Foraging path-length protocol for drosophila melanogaster larvae.
+\newblock {\em JoVE (Journal of Visualized Experiments)}, --(110):e53980.
+
+\bibitem[Bauer and Sokolowski, 1985]{bauer1985genetic}
+Bauer, S.~J. and Sokolowski, M.~B. (1985).
+\newblock A genetic analysis of path length and pupation height in a natural
+  population of drosophila melanogaster.
+\newblock {\em Canadian Journal of Genetics and Cytology}, 27(3):334--340.
+
+\bibitem[Charnov, 1976]{charnov1976optimal}
+Charnov, E.~L. (1976).
+\newblock Optimal foraging, the marginal value theorem.
+\newblock {\em Theoretical population biology}, 9(2):129--136.
+
+\bibitem[Chiara and Kim, 2023]{chiara2023animalta}
+Chiara, V. and Kim, S.-Y. (2023).
+\newblock Animalta: A highly flexible and easy-to-use program for tracking and
+  analysing animal movement in different environments.
+\newblock {\em Methods in Ecology and Evolution}, 14(7):1699--1707.
+
+\bibitem[de~Belle et~al., 1989]{de1989genetic}
+de~Belle, J.~S., Hilliker, A., and Sokolowski, M.~B. (1989).
+\newblock Genetic localization of foraging (for): a major gene for larval
+  behavior in drosophila melanogaster.
+\newblock {\em Genetics}, 123(1):157--163.
+
+\bibitem[de~Belle and Sokolowski, 1987]{de1987heredity}
+de~Belle, J.~S. and Sokolowski, M.~B. (1987).
+\newblock Heredity of rover/sitter: alternative foraging strategies of
+  drosophila melanogaster larvae.
+\newblock {\em Heredity}, 59(1):73--83.
+
+\bibitem[Felsenstein, 1985]{felsenstein1985phylogenies}
+Felsenstein, J. (1985).
+\newblock Phylogenies and the comparative method.
+\newblock {\em The American Naturalist}, 125(1):1--15.
+
+\bibitem[Janetos, 1982a]{janetos1982active}
+Janetos, A.~C. (1982a).
+\newblock Active foragers vs. sit-and-wait predators: a simple model.
+\newblock {\em Journal of Theoretical Biology}, 95(2):381--385.
+
+\bibitem[Janetos, 1982b]{janetos1982foraging}
+Janetos, A.~C. (1982b).
+\newblock Foraging tactics of two guilds of web-spinning spiders.
+\newblock {\em Behavioral Ecology and Sociobiology}, 10:19--27.
+
+\bibitem[MacArthur and Pianka, 1966]{macarthur1966optimal}
+MacArthur, R.~H. and Pianka, E.~R. (1966).
+\newblock On optimal use of a patchy environment.
+\newblock {\em The American Naturalist}, 100(916):603--609.
+
+\bibitem[Mesquita et~al., 2016]{mesquita2016life}
+Mesquita, D.~O., Costa, G.~C., Colli, G.~R., Costa, T.~B., Shepard, D.~B.,
+  Vitt, L.~J., and Pianka, E.~R. (2016).
+\newblock Life-history patterns of lizards of the world.
+\newblock {\em The American Naturalist}, 187(6):689--705.
+
+\bibitem[Padilla~Perez, 2024]{padilla2024geographic}
+Padilla~Perez, D.~J. (2024).
+\newblock Geographic and seasonal variation of the for gene reveal signatures
+  of local adaptation in drosophila melanogaster.
+\newblock {\em Journal of Evolutionary Biology}, 37(2):201--211.
+
+\bibitem[Padilla~Perez et~al., 2022]{padilla2022correlated}
+Padilla~Perez, D.~J., DeNardo, D.~F., and Angilletta~Jr, M.~J. (2022).
+\newblock The correlated evolution of foraging mode and reproductive effort in
+  lizards.
+\newblock {\em Proceedings of the Royal Society B}, 289(1976):20220180.
+
+\bibitem[{R Core Team}, 2023]{rcore}
+{R Core Team} (2023).
+\newblock {\em R: A Language and Environment for Statistical Computing}.
+\newblock R Foundation for Statistical Computing, Vienna, Austria.
+
+\bibitem[Roff, 2002]{roff2002life}
+Roff, D. (2002).
+\newblock {\em Life History Evolution}.
+\newblock Sinauer.
+
+\bibitem[Schoener, 1969]{schoener1969models}
+Schoener, T.~W. (1969).
+\newblock Models of optimal size for solitary predators.
+\newblock {\em The American Naturalist}, 103(931):277--313.
+
+\bibitem[Schoener, 1971]{schoener1971theory}
+Schoener, T.~W. (1971).
+\newblock Theory of feeding strategies.
+\newblock {\em Annual review of ecology and systematics}, 2(1):369--404.
+
+\bibitem[Sokolowski, 1980]{sokolowski1980foraging}
+Sokolowski, M.~B. (1980).
+\newblock Foraging strategies of \textit{Drosophila melanogaster}: a
+  chromosomal analysis.
+\newblock {\em Behavior genetics}, 10:291--302.
+
+\bibitem[Stearns et~al., 1992]{stearns1992evolution}
+Stearns, S., Stearns, S., and Press, O.~U. (1992).
+\newblock {\em The Evolution of Life Histories}.
+\newblock OUP Oxford.
+
+\bibitem[Vitt and Congdon, 1978]{vitt1978body}
+Vitt, L.~J. and Congdon, J.~D. (1978).
+\newblock Body shape, reproductive effort, and relative clutch mass in lizards:
+  resolution of a paradox.
+\newblock {\em The American Naturalist}, 112(985):595--608.
+
+\bibitem[Vitt and Price, 1982]{vitt1982ecological}
+Vitt, L.~J. and Price, H.~J. (1982).
+\newblock Ecological and evolutionary determinants of relative clutch mass in
+  lizards.
+\newblock {\em Herpetologica}, pages 237--255.
+
+\end{thebibliography}
