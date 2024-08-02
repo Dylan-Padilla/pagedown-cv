@@ -1,10 +1,10 @@
 ---
-title: "Dylan Padilla's CV"
-author: Dylan Padilla
+title: "Dylan Paadilla's CV"
+author: Dylan Paadilla
 date: "`r Sys.Date()`"
-#params:
-#  pdf_mode:
-#    value: true
+params:
+  pdf_mode:
+    value: true
 output:
   pagedown::html_resume:
     css: ['dd_cv.css', 'resume']
@@ -17,114 +17,73 @@ knitr::opts_chunk$set(
   echo = FALSE
 )
 
-
-library(glue)
-library(tidyverse)
 library(magrittr) # For the pipe
-#source("cv_printing_functions.r")
+source("cv_printing_functions.r")
 
 # Read in all data and initialize a CV printer object
-#CV <- create_CV_object(
-#  data_location = "/Library/Frameworks/R.framework/Versions/4.0/Resources/library/datadrivencv/sample_data",  
-#  pdf_mode = params$pdf_mode
-#)
-
-# Set this to true to have links turned into footnotes at the end of the document
-PDF_EXPORT <- FALSE
-
-
-# Holds all the links that were inserted for placement at the end
-links <- c()
-source('parsing_functions.R')
-
-
-# Load csv with position info
-position_data <- read_csv('positions.csv')
-
+CV <- create_CV_object(
+  data_location = "/Library/Frameworks/R.framework/Versions/4.4-arm64/Resources/library/datadrivencv/sample_data/",  
+  pdf_mode = params$pdf_mode
+)
 
 ```
 
 
 ```{r}
 # When in pdf export mode the little dots are unaligned, so fix that with some conditional CSS.
-#if(params$pdf_mode) {
-#    cat("
-#<style>
-#:root{
-#  --decorator-outer-offset-left: -6.5px;
-#}
-#</style>")
-#}
-
-# When in export mode the little dots are unaligned, so fix that. 
-if(PDF_EXPORT){
-  cat("
-  <style>
-  :root{
-    --decorator-outer-offset-left: -6.5px;
-  }
-  </style>")
+if(params$pdf_mode) {
+    cat("
+<style>
+:root{
+  --decorator-outer-offset-left: -6.5px;
 }
-
+</style>")
+}
 ```
 
 
 Aside
 ================================================================================
 
-
-![Dylan Padilla](img/C._cristatus.jpg){width=80%}
-
-
-
 ```{r}
 # Build interactive network of positions colored by section
 # and connected if they occurred in the same year
-#datadrivencv::build_network_logo(CV$entries_data)
+datadrivencv::build_network_logo(CV$entries_data)
 ```
 
 
 ```{r}
-#if(params$pdf_mode){
-#  cat("View this CV online with links at _nickstrayer.me/datadrivencv/_")
-#} else {
-#  cat("[<i class='fas fa-download'></i> Download a PDF of this CV](https://github.com/nstrayer/cv/raw/master/strayer_cv.pdf)")
-#}
+if(params$pdf_mode){
+  cat("View this CV online with links at _nickstrayer.me/datadrivencv/_")
+} else {
+  cat("[<i class='fas fa-download'></i> Download a PDF of this CV](https://github.com/nstrayer/cv/raw/master/strayer_cv.pdf)")
+}
 ```
 
 Contact {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-envelope"></i> dpadil10@asu.edu
-- <i class="fa fa-link"></i> [dylanpadilla.netlify.app](http://dylanpadilla.netlify.app/)
-- <i class="fa fa-github"></i> [github.com/Dylan-Padilla](https://github.com/Dylan-Padilla)
-- <i class="fa fa-twitter"></i> [Dylan\_Padilla94](https://twitter.com/Dylan_Padilla94?ref_src=twsrc%5Etfw)
-- <i class="fa fa-phone"></i> (480) 646-7769
-
-
 ```{r}
-#CV %>% print_contact_info()
+CV %>% print_contact_info()
 ```
 
 
 
-Skills {#skills}
+Language Skills {#skills}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-laptop"></i> **Programming**: R, rmarkdown, GitHub, HTML
-- <i class="fa fa-flask"></i> **Laboratory**: Experimental evolution
-- <i class="fa fa-lightbulb-o"></i> **Other**: Science teaching, science writing, data analysis, data visualization, statistics, experimental design
-
 ```{r}
-#CV %>% print_skill_bars()
+CV %>% print_skill_bars()
 ```
+
+
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
 Made with the R package [**pagedown**](https://github.com/rstudio/pagedown). 
 
-The source code is available [on github.com/Dylan-Padilla/cv](https://github.com/nstrayer/datadrivencv).
+The source code is available [on github.com/nstrayer/cv](https://github.com/nstrayer/datadrivencv).
 
 Last updated on `r Sys.Date()`.
 
@@ -133,17 +92,12 @@ Last updated on `r Sys.Date()`.
 Main
 ================================================================================
 
-Dylan Padilla {#title}
+Dylan Paadilla {#title}
 --------------------------------------------------------------------------------
-
-<p align="justify">
-I am an Evolutionary Biology PhD student at the School of Life Sciences, Arizona State University. My research examines the evolution of the life history among vertebrates and invertebrates. In doing so, I use phylogenetic comparative methods to generate hypotheses and draw broad conclusions that can be applied to wide ranges of taxa. In addition, I conduct experimental evolution studies to examine the frequency of alleles with underlying effects on the foraging behavior of individuals evolving under different selective pressures, which enables me to make strong inferences concerning phenotypic and genetic responses to selection.
-</p>
 
 ```{r}
 # Note the special double pipe so we modify the CV object in place
-#CV %<>% print_text_block("intro")
-
+CV %<>% print_text_block("intro") 
 ```
 
 
@@ -152,8 +106,7 @@ Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
 ```{r}
-#CV %<>% print_section('education')
-print_section(position_data, 'education')
+CV %<>% print_section('education')
 ```
 
 
@@ -162,82 +115,90 @@ Research Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
 
 ```{r}
-#CV %<>% print_section('research_positions')
-
-print_section(position_data, 'research_positions')
-
+CV %<>% print_section('research_positions')
 ```
 
-Peer-reviewed Publications {data-icon=book}
+
+
+Industry Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
+::: aside
 ```{r}
-#CV %<>% print_section('research_positions')
-
-print_section(position_data, 'academic_articles')
-
+CV %<>% print_text_block('industy_experience_aside')
 ```
+:::
+
+```{r}
+CV %<>% print_section('industry_positions')
+```
+
+<!-- These breaks just force a new page so section doesnt get cut off -->
 <br>
-
-GRANTS AND AWARDS {data-icon=award}
---------------------------------------------------------------------------------
-
-```{r}
-#CV %<>% print_section('academic_articles')
-print_section(position_data, 'data_grant')
-```
-
-Member of committee {data-icon=chalkboard-teacher}
---------------------------------------------------------------------------------
-
-```{r}
-#CV %<>% print_text_block('teaching_experience_aside')
-
-print_section(position_data, 'data_com')
-
-```
-
+<br>
+<br>
 
 Teaching Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
+::: aside
+```{r}
+CV %<>% print_text_block('teaching_experience_aside')
+```
+:::
 
 ```{r}
-#CV %<>% print_text_block('teaching_experience_aside')
-
-print_section(position_data, 'teaching_positions')
-
+CV %<>% print_section('teaching_positions')
 ```
 
-TALKS, INVITED TALKS, AND WORKSHOPS ATTENDED {data-icon=users}
+
+
+Selected Data Science Writing {data-icon=chart-line}
 --------------------------------------------------------------------------------
 
+::: aside
+```{r}
+CV %<>% print_text_block('data_science_writing_aside')
+```
+:::
 
 ```{r}
-#CV %<>% print_text_block('teaching_experience_aside')
-
-#print_section(position_data, 'teaching_positions')
-
-print_section(position_data, 'data_talks')
-
+CV %<>% print_section('data_science_writings')
 ```
 
 
-Service and Society member {data-icon=handshake}
+
+Selected Press (About)  {data-icon=newspaper}
 --------------------------------------------------------------------------------
 
-
 ```{r}
-#CV %<>% print_text_block('teaching_experience_aside')
-
-#print_section(position_data, 'teaching_positions')
-
-print_section(position_data, 'data_mem')
-
+CV %<>% print_section('about_me_press')
 ```
 
 
+<br>
+<br>
+
+
+Selected Press (By)  {data-icon=newspaper}
+--------------------------------------------------------------------------------
+
 ```{r}
-#CV %<>% print_links()
+CV %<>% print_section('by_me_press')
+```
+
+
+
+Selected Publications, Posters, and Talks {data-icon=book}
+--------------------------------------------------------------------------------
+
+```{r}
+CV %<>% print_section('academic_articles')
+```
+
+
+
+```{r}
+CV %<>% print_links()
 ```
 
