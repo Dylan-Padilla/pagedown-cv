@@ -12,7 +12,7 @@ body {
 h1,
 h2,
 h3 {
-  font-family: "Monaco";
+  font-family: "Playfair Display", serif;
   color: #000;
 }
 
@@ -121,23 +121,4 @@ sup {
   padding: 0.5rem;
   margin: 0.5rem;
   box-shadow: 1px 1px 4px black;
-}
-
-/*Add page number to the bottom left of the left and right pages */
-@page :left {
-  @bottom-left {
-    content: counter(page);
-  }
-}
-@page :right {
-  @bottom-left {
-    content: counter(page);
-  }
-}
-
-.pagedjs_page:not(:first-of-type) {
-  --sidebar-width: 0rem;
-  --sidebar-background-color: #ffffff;
-  --main-width: calc(var(--content-width) - var(--sidebar-width));
-  --decorator-horizontal-margin: 0.2in;
 }
