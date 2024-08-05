@@ -94,7 +94,7 @@ sup {
 }
 
 .skill-bar {
-  color: gold;
+  color: white;
   padding: 0.1rem 0.25rem;
   margin-top: 3px;
   position: relative;
@@ -121,4 +121,11 @@ sup {
   padding: 0.5rem;
   margin: 0.5rem;
   box-shadow: 1px 1px 4px black;
+}
+
+@page {
+  @bottom-left {
+      content: counter(page) ' of ' counter(pages);
+      font-size: 0.70rem;
+  }
 }
