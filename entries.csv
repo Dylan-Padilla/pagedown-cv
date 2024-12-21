@@ -1,10 +1,10 @@
 Where in your CV this entry belongs,Main title of the entry,Location the entry occured,Primary institution affiliation for entry,Start date of entry (year),"End year of entry. Set to ""current"" if entry is still ongoing.","Each description column is a separate bullet point for the entry. If you need more description bullet points simply add a new column with title ""description_{4,5,..}""",,,,A filter variable that is used to decide if entry is in the smaller resume. 
 section,title,loc,institution,start,end,description_1,old_description_2,old_description_3,description_md,in_resume
-education,G. Evelyn Hutchinson Postdoctoral Associate,Yale University,"CT, USA",2025,present,,NA,NA,NA,TRUE
-education,"PhD., Evolutionary Biology",Arizona State University (ASU),"AZ, USA",2020,2024,Dissertation: Macro- and Microevolutionary Insights into the Evolution of Foraging Behavior and The Life History,NA,NA,NA,TRUE
-education,"M.S., Evolutionary Biology",Arizona State University (ASU),"AZ, USA",2020,2023,NA,NA,NA,NA,TRUE
-education,"M.S., Ecology and Evolution",Federal University of Sao Paulo (UNIFESP),"Sao Paulo, Brazil",2017,2019,,NA,NA,NA,TRUE
-education,"B.S., Biology",Universidad del Atlantico,"Barranquilla, Colombia",2010,2016,,NA,NA,NA,TRUE
+education,G. Evelyn Hutchinson Postdoctoral Associate,Yale University,"CT, USA",2025,present,NA,NA,NA,Mentors: David Skelly and Martha Munoz,TRUE
+education,"PhD., Evolutionary Biology",Arizona State University (ASU),"AZ, USA",2020,2024,NA,NA,NA,Mentors: Michael Angilletta and Dale DeNardo,TRUE
+education,"M.S., Evolutionary Biology",Arizona State University (ASU),"AZ, USA",2020,2023,NA,NA,NA,Mentors: Michael Angilletta and Dale DeNardo,TRUE
+education,"M.S., Ecology and Evolution",Federal University of Sao Paulo (UNIFESP),"Sao Paulo, Brazil",2017,2019,NA,NA,NA,Mentors: Carlos Navas and Jose Eduardo de Carvalho,TRUE
+education,"B.S., Biology",Universidad del Atlantico,"Barranquilla, Colombia",2010,2016,NA,NA,NA,Mentors: Hector Rivera Gutierrez,TRUE
 research_positions,Consultant,"Dreamscape Learn, Inc., a Delaware corporation","AZ, USA",2023,2024,"Consultant to provide data set validation including but not limited to building parameters for Alien Zoo Biology student data sets, and create formulas for data sets to allow instructors to automatically update data based on pre-existing parameters",NA,NA,,TRUE
 research_positions,Intern,Smithsonian Tropical Research Institute (STRI),"Gamboa, Panama",2019,2019,The genomic basis of thermal adaptation: a large-scale transplant experiment in the Panama Canal,NA,NA,,TRUE
 research_positions,Exchange Student,"School of Life Sciences, Arizona State University","AZ, USA",2018,2019,NA,NA,NA,,TRUE
