@@ -59,7 +59,11 @@ Aside
 ```{r}
 # Build interactive network of positions colored by section
 # and connected if they occurred in the same year
-datadrivencv::build_network_logo(CV$entries_data)
+##datadrivencv::build_network_logo(CV$entries_data)
+
+knitr::include_graphics('img/IMG_8386.JPG')
+
+
 ```
 
 
@@ -99,7 +103,8 @@ Dylan Padilla {#title}
 --------------------------------------------------------------------------------
 
 <p align="justify">
-I am a G. Evelyn Hutchinson Postdoctoral Associate at [Yale University](https://yibs.yale.edu/hutchinson-fellows). My research examines macro- and microevolutionary patterns in the life histories of vertebrates and invertebrates (e.g., [see here](https://www.dropbox.com/s/9umvsjpvn7mj2eb/Padilla%20Perez%20D.J.%20and%20Angilletta%20Jr.%2C%20M.J.%20%282022%29.%20Macroclimatic%20and%20maternal%20effects%20on%20the%20evolution%20of%20reproductive%20traits%20in%20lizards.pdf?dl=0)). In doing so, I design experimental evolution experiments to quantify the frequency of alleles with underlying effects on life histories evolving under different selective pressures, which enables me to make strong inferences concerning phenotypic and genetic responses to selection.
+I am a G. Evelyn Hutchinson Postdoctoral Associate at [Yale University](https://yibs.yale.edu/hutchinson-fellows). My research examines macro- and microevolutionary patterns in the life histories of vertebrates and invertebrates (e.g., [see here](https://www.dropbox.com/s/9umvsjpvn7mj2eb/Padilla%20Perez%20D.J.%20and%20Angilletta%20Jr.%2C%20M.J.%20%282022%29.%20Macroclimatic%20and%20maternal%20effects%20on%20the%20evolution%20of%20reproductive%20traits%20in%20lizards.pdf?dl=0)). In doing so, I design experimental evolution experiments to quantify the frequency of alleles with underlying effects on life histories evolving under different selective pressures, which enables me to make strong inferences concerning phenotypic and genetic responses to selection.<br><br>
+Also, I enjoy coding and developing new programming tools to solve specific problems in the field of evolutionary biology; check my latest programming project [here](https://www.youtube.com/@asnamnat9152/shorts).
 </p>
 
 ```{r}
