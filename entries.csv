@@ -10,7 +10,7 @@ research_positions,Intern,Smithsonian Tropical Research Institute (STRI),"Gamboa
 research_positions,Exchange Student,"School of Life Sciences, Arizona State University","AZ, USA",2018,2019,NA,NA,NA,,TRUE
 research_positions,Intern,Grupo Herpetologico de Antioquia (GHA),"Medellin, Colombia",2013,2015,Monitoring the terrestrial vertebrate fauna in the Jaguas and San Carlos hydroelectric power plants in eastern Antioquia. Inter-institutional agreement between the University of Antioquia and ISAGEN,,,,TRUE
 academic_articles,"Benson D.M., [Padilla Perez, D.J.](https://dylanpadilla.netlify.app/), DeNardo D.F., 2025. Why are telomeres the length that they are? Insight from a phylogenetic comparative analysis. *Evolution*. In press.",NA,NA,,2025,NA,NA,NA,NA,TRUE
-academic_articles,"[Padilla Perez, D.J.](https://dylanpadilla.netlify.app/), VandenBrooks J.M., Sokolowski M.B., Angilleta M.J., 2025. Foraging actively can be advantageous in heterogeneous environments. *Biol. Lett.*. In press.",NA,NA,,2025,NA,NA,NA,NA,TRUE
+academic_articles,"[Padilla Perez, D.J.](https://dylanpadilla.netlify.app/), VandenBrooks J.M., Sokolowski M.B., Angilleta M.J., 2025. Foraging actively can be advantageous in heterogeneous environments. *Biol. Lett*. 21:20250153. https://doi.org/10.1098/rsbl.2025.0153",NA,NA,,2025,NA,NA,NA,NA,TRUE
 academic_articles,"Graham Z.A., [Padilla Perez D.J.](https://dylanpadilla.netlify.app/), 2024. Correlated evolution of conspicuous colouration and burrowing in crayfish. *Proc. R. Soc.B*291: 20240632. doi: https://doi.org/10.1098/rspb.2024.0632",NA,NA,,2024,NA,NA,NA,NA,TRUE
 academic_articles,"[Padilla Perez, D.J.](https://dylanpadilla.netlify.app/), 2024. Geographic and seasonal variation of the _for_ gene reveal signatures of local adaptation in *Drosophila melanogaster*. *Journal of Evolutionary Biology*. doi: https://doi.org/10.1101/2023.02.19.529142",NA,NA,,2024,NA,NA,NA,NA,TRUE
 academic_articles,"[Padilla Perez, D.J.](https://dylanpadilla.netlify.app/), DeNardo, D.F., Angilletta Jr., M.J., 2022. The correlated evolution of foraging mode and reproductive effort in lizards. *Proc. R. Soc. B* 289: 20220180. doi: https://doi.org/10.1098/rspb.2022.0180",NA,NA,,2022,NA,NA,NA,NA,TRUE
@@ -34,6 +34,7 @@ data_com,"Use of spatial and trophic resources by Anole species Daudin, 1982-Squ
 data_com,Locomotor performance among males and females of the invasive amphibian *Eleutherodactylus johnstonei*.,"<b>Raphaela Batista</b>, B.S. in Biology from the Federal University of Sao Paulo (2017)","Sao Paulo, Brazil",,2017,NA,NA,NA,NA,TRUE
 data_com,"Intraspecific comparative analysis of maternal body condition and offspring quality in the snake species *Pantherophis guttatus*-Serpentes, Colubridae.","<b>Eduardo Dinelli</b>, B.S. in Biology from the Federal University of Sao Paulo (2017)","Sao Paulo, Brazil",,2017,NA,NA,NA,NA,TRUE
 data_com,Mentoring,"<b>Bailey Kane</b>, undergraduate at Barrett, the Honors College at Arizona State University <br> <b>Rachel Doherty</b>, undergraduate student at Arizona State University","Tempe, AZ",,2024,NA,NA,NA,NA,TRUE
+data_talks,"[Padilla Perez, D.J.](https://dylanpadilla.netlify.app/). ASN Graduate Mixer.",Evolution 2025 (June 22),"Athens, GA.",,2025,Organizer of the event,,,,TRUE
 data_talks,"[Padilla Perez, D.J.](https://dylanpadilla.netlify.app/), Munoz M.M, Skelly D.K. Relative high fitness and genome-wide diversity may facilitate plastic and active foragers' diversification.",Evolution 2025 (June 20-24),"Athens, GA.",,2025,https://dylan-padilla.github.io/talk-EVO2025/,,,,TRUE
 data_talks,"[Padilla Perez, D.J.](https://dylanpadilla.netlify.app/). Larger prokaryotes grow faster only at high temperatures.",Third Joint Congress of Evolutionary Biology (July 26-30),"Montreal, Canada.",,2024,https://dylanpadilla.netlify.app/talk/evolution-2024-talk/ <br> https://dylan-padilla.github.io/EVO2024/#1,,,,TRUE
 data_talks,"[Padilla Perez, D.J.](https://dylanpadilla.netlify.app/). Beyond Microsoft: A Series of YouTube Shorts.",ASN Graduate Student Mixer (July 28),"Montreal, Canada.",,2024,https://dylan-padilla.github.io/beyond-microsoft-slides/#1,,,,TRUE
@@ -46,13 +47,6 @@ data_talks,"[Padilla Perez, D.J.](https://dylanpadilla.netlify.app/), DeNardo, D
 data_talks,"[Padilla Perez, D.J.](https://dylanpadilla.netlify.app/), Angilletta Jr., M.J. Macroclimatic and maternal effects on the evolution of reproductive traits in lizards.",ESEB 2022 (Aug 14-19),"Prague, Czech Republic",,2022,https://github.com/Dylan-Padilla/poster-ESEB2022/blob/main/index.pdf,Poster,NA,NA,TRUE
 data_mem,Judge at the Annual Undergraduate Research Symposium.,"Arizona State University (April 22, 2022)","Tempe, AZ",2022,2024,NA,NA,NA,NA,TRUE
 data_mem,Society for the Study of Evolution,NA,USA,2021,present,Acitve member,,NA,NA,TRUE
-data_mem,The American Society of Naturalists,NA,USA,2021,present,Former member of the American Society of Naturalists Diversity Committee<br>Current Graduate Student Representative of the American Society of Naturalists,,,,TRUE
-data_rev,Biological Journal of the Linnean Society,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
-data_rev,Evolutionary Applications,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
-data_rev,Evolutionary Biology,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
-data_rev,Journal of Animal Ecology,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
-data_rev,Journal of Zoology,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
-data_rev,Oikos,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
-data_lang,English,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
-data_lang,Portuguese,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
-data_lang,Spanish,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+data_mem,The American Society of Naturalists,NA,USA,2021,present,Former member of the American Society of Naturalists Diversity Committee<br><ul> <li>Current Graduate Student Representative of the American Society of Naturalists</li></ul>,,,,TRUE
+data_rev,"Biological Journal of the Linnean Society, Evolutionary Applications, Evolutionary Biology, Journal of Animal Ecology, Journal of Zoology, Oikos.",NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+data_lang,"English, Portuguese, and Spanish",NA,NA,NA,NA,NA,NA,NA,NA,TRUE
